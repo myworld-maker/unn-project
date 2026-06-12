@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // REGISTRY = "ec2-3-36-100-177.ap-northeast-2.compute.amazonaws.com"
-        REGISTRY = "ec2-13-125-49-128.ap-northeast-2.compute.amazonaws.com/"
+        REGISTRY = "ec2-13-125-49-128.ap-northeast-2.compute.amazonaws.com"
         PROJECT  = "unn-project"
         // IMAGE    = "web03"
         IMAGE    = "web01"
